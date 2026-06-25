@@ -1,0 +1,11 @@
+venv_motion/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+data/raw/
+data/dummy/
+results/raw_outputs/
+models/
+*.bag

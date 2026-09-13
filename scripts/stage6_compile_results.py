@@ -20,7 +20,7 @@ Usage:
     python scripts/stage6_compile_results.py
 """
 
-import os
+import os 
 import pandas as pd
 import numpy as np
 from scipy import stats

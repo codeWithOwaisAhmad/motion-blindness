@@ -1,11 +1,21 @@
-venv_motion/
-.env
+# Python bytecode & cache
 __pycache__/
-*.pyc
-*.pyo
-.vscode/
-data/raw/
-data/dummy/
-results/raw_outputs/
-models/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Large archives & temporary data
+*.tar.gz
+*.zip
 *.bag
+verify_frames/
+dataset/
+
+# OS artifacts
+.DS_Store
+Thumbs.db

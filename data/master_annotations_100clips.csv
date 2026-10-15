@@ -1,0 +1,501 @@
+Clip ID,Date,Time,Scene Type,Object Type,Description,Scenario,Depth Motion,2D Direction,Speed,Z_start (m),Z_end (m),Delta_Z (m),Bag File,Duration (s),Q1 Text,Q1 Correct,Q2 Text,Q2 Correct,Q3 Text,Q3 Correct,Q4 Text,Q4 Correct,Verify Frames Path,Clip Valid,Notes
+clip_001,2026-09-22,11:24:43,object,mug,Red Mug,pure_toward,toward,toward,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_001.db3,11.0,"In which direction does the mug primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the mug in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the mug closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the mug at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_001,PASS,Red Mug moving towards the camera
+clip_002,2026-09-22,11:27:01,object,ball,green ball,pure_toward,toward,toward,medium,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_002.db3,11.0,"In which direction does the ball primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the ball in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the ball closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the ball at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_002,PASS,green ball moving towards the camera
+clip_003,2026-09-22,11:29:41,object,apple,yellowish apple,pure_toward,toward,toward,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_003.db3,10.0,"In which direction does the apple primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the apple in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the apple closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the apple at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_003,PASS,yellowish apple moving towards the camera
+clip_004,2026-09-22,11:32:39,object,book,simple book,pure_toward,toward,toward,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_004.db3,13.0,"In which direction does the book primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the book in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the book closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the book at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_004,PASS,simple book moving toward the camera
+clip_005,2026-09-22,11:36:17,object,bottle,blue bottle,pure_toward,toward,toward,medium,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_005.db3,12.0,"In which direction does the bottle primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the bottle in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the bottle closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the bottle at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_005,PASS,blue bottle moving toward the camera
+clip_006,2026-09-22,11:39:26,object,cup,white cup,pure_toward,toward,toward,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_006.db3,10.0,"In which direction does the cup primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the cup in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the cup closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the cup at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_006,PASS,white cup moving toward the camera
+clip_007,2026-09-22,11:41:13,object,box,dark blue,pure_toward,toward,toward,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_007.db3,9.0,"In which direction does the box primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the box in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the box closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the box at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_007,PASS,dark blue intel camera box moving toward the camera
+clip_008,2026-09-22,11:44:09,object,Stapler,green stapler,pure_toward,toward,toward,fast,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_008.db3,7.0,"In which direction does the ball primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the ball in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the ball closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the ball at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_008,PASS,green stapler moving towards the camera
+clip_009,2026-09-22,11:48:52,object,Mouse,greyish mouse,pure_toward,toward,toward,fast,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_009.db3,8.0,"In which direction does the ball primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the ball in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the ball closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the ball at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_009,PASS,greyish mouse moving towards the camera
+clip_010,2026-09-22,11:52:40,object,Tripod,Small Tripod,pure_toward,toward,toward,medium,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_010.db3,12.0,"In which direction does the ball primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the ball in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the ball closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the ball at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_010,PASS,Tripod moving towards the camera
+clip_011,2026-09-22,14:42:07,object,apple,Yellowish Apple,pure_away,away,away,medium,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_011.db3,11.0,"In which direction does the apple primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the apple in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the apple closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the apple at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_011,PASS,Yellowish Apple moving away from the camera
+clip_012,2026-09-22,14:44:30,object,stapler,Green Stapler,pure_away,away,away,medium,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_012.db3,13.0,"In which direction does the stapler primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the stapler in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the stapler closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the stapler at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_012,PASS,Stapler moving away from the camera
+clip_013,2026-09-22,14:46:59,object,bottle,blue bottle,pure_away,away,away,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_013.db3,11.0,"In which direction does the bottle primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the bottle in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the bottle closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the bottle at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_013,PASS,blue bottle moving away from the camera
+clip_014,2026-09-22,14:48:41,object,ball,green ball,pure_away,away,away,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_014.db3,10.0,"In which direction does the ball primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the ball in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the ball closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the ball at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_014,PASS,green ball moving away from the camera
+clip_015,2026-09-22,14:50:48,object,mouse,greyish mouse,pure_away,away,away,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_015.db3,11.0,"In which direction does the mouse primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the mouse in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the mouse closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the mouse at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_015,PASS,greyish mouse moving away from the camera
+clip_016,2026-09-22,14:55:03,object,tripod,Small Tripod,pure_away,away,away,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_016.db3,13.0,"In which direction does the tripod primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the tripod in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the tripod closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the tripod at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_016,PASS,Tripod moving away from the camera
+clip_017,2026-09-22,14:57:35,object,mug,Dark Blue Box,pure_away,away,away,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_017.db3,10.0,"In which direction does the mug primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the mug in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the mug closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the mug at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_017,PASS,Intel Box moving away from the camera
+clip_018,2026-09-22,15:00:57,object,mug,red mug,pure_away,away,away,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_018.db3,13.0,"In which direction does the mug primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the mug in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the mug closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the mug at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_018,PASS,red mug moving away from the camera
+clip_019,2026-09-22,15:02:53,object,book,simple book,pure_away,away,away,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_019.db3,13.0,"In which direction does the book primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the book in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the book closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the book at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_019,PASS,simple book moving away from the camera
+cilp_020,2026-09-22,15:04:59,object,Cup,white cup,pure_away,away,away,medium,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/cilp_020.db3,7.2,"In which direction does the toy primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the toy in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the toy closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the toy at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/cilp_20,PASS,white cup moving away from the camera
+clip_021,2026-09-22,15:07:45,object,Cup,White Cup,stationary,stationary,stationary,na,1.22,1.22,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_021.db3,4.0,"In which direction does the toy primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the toy in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the toy closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the toy at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_021,PASS,White Cup Stationary at Farthest Point
+clip_022,2026-09-22,15:09:22,object,apple,Yellowish Apple,stationary,stationary,stationary,na,1.22,1.22,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_022.db3,3.0,"In which direction does the apple primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the apple in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the apple closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the apple at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_022,PASS,Apple at Stationary Position
+clip_023,2026-09-22,15:10:25,object,tripod,Small tripod,stationary,stationary,stationary,na,1.22,1.22,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_023.db3,4.0,"In which direction does the tripod primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the tripod in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the tripod closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the tripod at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_023,PASS,Tripod at Farthest Stationary Position
+clip_024,2026-09-22,15:11:54,object,bottle,Blue Bottle,stationary,stationary,stationary,na,1.22,1.22,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_024.db3,5.0,"In which direction does the bottle primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the bottle in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the bottle closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the bottle at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_024,PASS,Bottle at farthest Stationary Position
+clip_025,2026-09-22,15:12:55,object,stapler,Green Stapler,stationary,stationary,stationary,na,1.22,1.22,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_025.db3,5.0,"In which direction does the stapler primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the stapler in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the stapler closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the stapler at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_025,PASS,Stapler at Stationary Position
+clip_026,2026-09-22,15:14:36,object,mouse,Gery mouse,stationary,stationary,stationary,na,0.39,0.39,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_026.db3,5.0,"In which direction does the mouse primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the mouse in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the mouse closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the mouse at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_026,PASS,Mouse at nearest point
+clip_027,2026-09-22,15:16:08,object,ball,Green Ball,stationary,stationary,stationary,na,0.39,0.39,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_027.db3,6.0,"In which direction does the ball primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the ball in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the ball closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the ball at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_027,PASS,Green Ball at Nearest Point
+clip_028,2026-09-22,15:17:00,object,mug,Red Mug,stationary,stationary,stationary,na,0.39,0.39,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_028.db3,5.0,"In which direction does the mug primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the mug in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the mug closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the mug at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_028,PASS,Red mug in stationary position
+clip_029,2026-09-22,15:17:58,object,book,Book,stationary,stationary,stationary,na,0.39,0.39,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_029.db3,5.0,"In which direction does the book primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the book in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the book closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the book at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_029,PASS,Book at starting Point
+clip_030,2026-09-22,15:19:11,object,box,Intel Box,stationary,stationary,stationary,na,0.39,0.39,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_030.db3,5.0,"In which direction does the box primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the box in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the box closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the box at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_030,PASS,Intel Camera Box at nearest Location
+clip_031,2026-09-22,15:29:24,object,mug,red mug,pure_sideways,sideways,right,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_031.db3,8.0,"In which direction does the mug primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the mug in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the mug closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the mug at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_031,PASS,red mug moving sideaways
+clip_032,2026-09-22,15:33:28,object,mouse,greyish mouse,pure_sideways,sideways,right,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_032.db3,6.0,"In which direction does the mouse primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the mouse in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the mouse closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the mouse at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_032,PASS,greyish mouse moving sideaways
+clip_033,2026-09-22,15:36:06,object,tripod,tripod,pure_sideways,sideways,right,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_033.db3,7.0,"In which direction does the tripod primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the tripod in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the tripod closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the tripod at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_033,PASS,tripod moving sideaways
+clip_034,2026-09-22,15:38:14,object,bottle,blue bottle,pure_sideways,sideways,right,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_034.db3,5.0,"In which direction does the bottle primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the bottle in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the bottle closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the bottle at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_034,PASS,blue bottle moving sideaways
+clip_035,2026-09-22,15:39:58,object,book,simple book,pure_sideways,sideways,right,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_035.db3,7.0,"In which direction does the book primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the book in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the book closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the book at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_035,PASS,simple book moving sideaways
+clip_036,2026-09-22,15:41:32,object,box,dark blue box,pure_sideways,sideways,left,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_036.db3,5.0,"In which direction does the box primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the box in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the box closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the box at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_036,PASS,dark blue box moving sideaways
+clip_037,2026-09-22,15:45:49,object,ball,green ball,pure_sideways,sideways,left,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_037.db3,6.0,"In which direction does the ball primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the ball in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the ball closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the ball at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_037,PASS,green ball moving sideaways
+clip_038,2026-09-22,15:47:33,object,stapler,stapler,pure_sideways,sideways,left,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_038.db3,6.0,"In which direction does the stapler primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the stapler in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the stapler closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the stapler at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_038,PASS,stapler moving sideaways
+clip_039,2026-09-22,15:49:02,object,Cup,white cup,pure_sideways,sideways,left,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_039.db3,6.0,"In which direction does the toy primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the toy in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the toy closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the toy at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_039,PASS,white cup moving sideaways
+clip_040,2026-09-22,15:50:52,object,apple,yellowish apple,pure_sideways,sideways,left,medium,0.83,0.83,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_040.db3,5.0,"In which direction does the apple primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the apple in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the apple closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the apple at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_040,PASS,yellowish apple moving sideaways
+clip_041,2026-09-27,22:30:30,object,ball,green ball,angle_toward,toward,left,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_041.db3,7.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_041,PASS,far right to near center diagonal approach
+clip_042,2026-09-27,22:37:12,object,mug,Red Mug,angle_toward,toward,left,medium,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_042.db3,9.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_042,PASS,far right to near center diagonal approach
+clip_043,2026-09-27,22:38:41,object,bottle,blue bottle,angle_toward,toward,left,fast,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_043.db3,9.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_043,PASS,far right to near center diagonal approach
+clip_044,2026-09-27,22:40:37,object,Stapler,green stapler,angle_toward,toward,left,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_044.db3,11.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_044,PASS,far right to near center diagonal approach
+clip_045,2026-09-27,22:42:06,object,Mouse,greyish mouse,angle_toward,toward,left,medium,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_045.db3,9.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_045,PASS,far right to near center diagonal approach
+clip_046,2026-09-27,22:43:50,object,box,Intel Box,angle_toward,toward,left,fast,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_046.db3,10.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_046,PASS,far right to near center diagonal approach
+clip_047,2026-09-27,22:46:59,object,cup,white cup,angle_toward,toward,left,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_047.db3,8.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_047,PASS,far right to near center diagonal approach
+clip_048,2026-09-27,22:48:42,object,Tripod,Small Tripod,angle_toward,toward,left,medium,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_048.db3,10.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_048,PASS,far right to near center diagonal approach
+clip_049,2026-09-27,22:50:42,object,mug,Red Mug,angle_toward,toward,right,fast,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_049.db3,8.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_049,PASS,far left to near center diagonal approach
+clip_050,2026-09-27,22:52:03,object,bottle,blue bottle,angle_toward,toward,right,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_050.db3,9.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_050,PASS,far left to near center diagonal approach
+clip_051,2026-09-27,22:54:15,object,box,Intel Box,angle_toward,toward,right,medium,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_051.db3,10.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_051,PASS,far left to near center diagonal approach
+clip_052,2026-09-27,22:56:27,object,Mouse,greyish mouse,angle_toward,toward,right,fast,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_052.db3,7.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_052,PASS,far left to near center diagonal approach
+clip_053,2026-09-27,22:57:44,object,ball,green ball,angle_toward,toward,right,slow,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_053.db3,7.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_053,PASS,far left to near center diagonal approach
+clip_054,2026-09-27,23:00:05,object,cup,white cup,angle_toward,toward,right,medium,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_054.db3,8.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_054,PASS,far left to near center diagonal approach
+clip_055,2026-09-27,23:01:22,object,Stapler,green stapler,angle_toward,toward,right,fast,1.22,0.39,-0.83,/run/media/owais/External/motion_blindness/bag_files/clip_055.db3,8.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_055,PASS,far left to near center diagonal approach
+clip_056,2026-09-27,23:05:12,object,mug,Red Mug,angle_away,away,right,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_056.db3,9.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_056,PASS,near center to far right diagonal recession
+clip_057,2026-09-27,23:07:11,object,bottle,blue bottle,angle_away,away,right,medium,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_057.db3,9.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_057,PASS,near center to far right diagonal recession
+clip_058,2026-09-27,23:08:50,object,Tripod,Small Tripod,angle_away,away,right,fast,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_058.db3,7.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_058,PASS,near center to far right diagonal recession
+clip_059,2026-09-27,23:10:32,object,box,Intel Box,angle_away,away,right,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_059.db3,8.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_059,PASS,near center to far right diagonal recession
+clip_060,2026-09-27,23:12:09,object,Stapler,green stapler,angle_away,away,right,medium,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_060.db3,9.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_060,PASS,near center to far right diagonal recession
+clip_061,2026-09-27,23:13:59,object,mouse,greyish mouse,angle_away,away,right,fast,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_061.db3,6.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_061,PASS,near center to far right diagonal recession
+clip_062,2026-09-27,23:15:33,object,cup,white cup,angle_away,away,right,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_062.db3,8.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_062,PASS,near center to far right diagonal recession
+clip_063,2026-09-27,23:17:15,object,ball,green ball,angle_away,away,right,medium,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_063.db3,9.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_063,PASS,near center to far right diagonal recession
+clip_064,2026-09-27,23:18:51,object,ball,green ball,angle_away,away,left,fast,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_064.db3,7.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_064,PASS,near center to far left diagonal recession
+clip_065,2026-09-27,23:20:24,object,bottle,blue bottle,angle_away,away,left,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_065.db3,10.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_065,PASS,near center to far left diagonal recession
+clip_066,2026-09-27,23:21:42,object,Stapler,green stapler,angle_away,away,left,medium,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_066.db3,8.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_066,PASS,near center to far left diagonal recession
+clip_067,2026-09-27,23:22:59,object,Tripod,Small Tripod,angle_away,away,left,fast,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_067.db3,8.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_067,PASS,near center to far left diagonal recession
+clip_068,2026-09-27,23:25:12,object,mug,Red Mug,angle_away,away,left,slow,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_068.db3,10.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_068,PASS,near center to far left diagonal recession
+clip_069,2026-09-27,23:28:34,object,Mouse,greyish mouse,angle_away,away,left,medium,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_069.db3,10.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_069,PASS,near center to far left diagonal recession
+clip_070,2026-09-27,23:29:53,object,mouse,greyish mouse,angle_away,away,left,fast,0.39,1.22,0.83,/run/media/owais/External/motion_blindness/bag_files/clip_070.db3,10.0,"In which direction does the [object] primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the [object] in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the [object] closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the [object] at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_070,PASS,near center to far left diagonal recession
+clip_071,2026-09-28,15:46:15,person,person,person walking toward camera,walk_toward,toward,toward,slow,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_071.db3,9.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_071,PASS,person walking from far line to near line
+clip_072,2026-09-28,15:48:15,person,person,person walking toward camera,walk_toward,toward,toward,slow,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_072.db3,11.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_072,PASS,person walking from far line to near line
+clip_073,2026-09-28,15:49:36,person,person,person walking toward camera,walk_toward,toward,toward,slow,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_073.db3,12.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_073,PASS,person walking from far line to near line
+clip_074,2026-09-28,15:50:55,person,person,person walking toward camera,walk_toward,toward,toward,slow,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_074.db3,10.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_074,PASS,person walking from far line to near line
+clip_075,2026-09-28,15:52:19,person,person,person walking toward camera,walk_toward,toward,toward,medium,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_075.db3,7.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_075,PASS,person walking from far line to near line
+clip_076,2026-09-28,15:53:31,person,person,person walking toward camera,walk_toward,toward,toward,medium,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_076.db3,7.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_076,PASS,person walking from far line to near line
+clip_077,2026-09-28,15:54:53,person,person,person walking toward camera,walk_toward,toward,toward,medium,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_077.db3,7.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_077,PASS,person walking from far line to near line
+clip_078,2026-09-28,15:56:07,person,person,person walking toward camera,walk_toward,toward,toward,medium,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_078.db3,8.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_078,PASS,person walking from far line to near line
+clip_079,2026-09-28,15:57:20,person,person,person walking toward camera,walk_toward,toward,toward,fast,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_079.db3,4.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_079,PASS,person walking from far line to near line
+clip_080,2026-09-28,15:58:39,person,person,person walking toward camera,walk_toward,toward,toward,fast,3.0,1.0,-2.0,/run/media/owais/External/motion_blindness/bag_files/clip_080.db3,6.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",A,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",A,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",A,/home/owais/Documents/motion-blindness/data/verify/clip_080,PASS,person walking from far line to near line
+clip_081,2026-09-28,16:02:54,person,person,person walking away from camera,walk_away,away,away,slow,1.0,3.0,2.0,/run/media/owais/External/motion_blindness/bag_files/clip_081.db3,9.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_081,PASS,person walking from near line to far line
+clip_082,2026-09-28,16:04:36,person,person,person walking away from camera,walk_away,away,away,slow,1.0,3.0,2.0,/run/media/owais/External/motion_blindness/bag_files/clip_082.db3,10.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_082,PASS,person walking from near line to far line
+clip_083,2026-09-28,16:08:53,person,person,person walking away from camera,walk_away,away,away,slow,1.0,3.0,2.0,/run/media/owais/External/motion_blindness/bag_files/clip_083.db3,11.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_083,PASS,person walking from near line to far line
+clip_084,2026-09-28,16:10:30,person,person,person walking away from camera,walk_away,away,away,slow,1.0,3.0,2.0,/run/media/owais/External/motion_blindness/bag_files/clip_084.db3,13.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",A,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_084,PASS,person walking from near line to far line
+clip_085,2026-09-28,16:12:07,person,person,person walking away from camera,walk_away,away,away,medium,1.0,3.0,2.0,/run/media/owais/External/motion_blindness/bag_files/clip_085.db3,8.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_085,PASS,person walking from near line to far line
+clip_086,2026-09-28,16:13:26,person,person,person walking away from camera,walk_away,away,away,medium,0.3,3.0,2.7,/run/media/owais/External/motion_blindness/bag_files/clip_086.db3,9.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_086,PASS,person walking from near line to far line
+clip_087,2026-09-28,16:16:03,person,person,person walking away from camera,walk_away,away,away,medium,1.0,3.0,2.0,/run/media/owais/External/motion_blindness/bag_files/clip_087.db3,9.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_087,PASS,person walking from near line to far line
+clip_088,2026-09-28,16:17:28,person,person,person walking away from camera,walk_away,away,away,medium,1.0,3.0,2.0,/run/media/owais/External/motion_blindness/bag_files/clip_088.db3,9.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_088,PASS,person walking from near line to far line
+clip_089,2026-09-28,16:18:40,person,person,person walking away from camera,walk_away,away,away,medium,1.0,3.0,2.0,/run/media/owais/External/motion_blindness/bag_files/clip_089.db3,6.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_089,PASS,person walking from near line to far line
+clip_090,2026-09-28,16:20:29,person,person,person walking away from camera,walk_away,away,away,fast,1.0,3.0,2.0,/run/media/owais/External/motion_blindness/bag_files/clip_090.db3,5.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",B,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",C,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",B,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",B,/home/owais/Documents/motion-blindness/data/verify/clip_090,PASS,person walking from near line to far line
+clip_091,2026-09-28,16:21:45,person,person,person walking sideaways across field to view,walk_sideways,sideways,left,medium,2.0,2.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_091.db3,6.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_091,PASS,person walking laterally at constant depth
+clip_092,2026-09-28,16:24:59,person,person,person walking sideaways across field of view,walk_sideways,sideways,left,medium,2.0,2.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_092.db3,6.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_092,PASS,person walking laterally at constant depth
+clip_093,2026-09-28,16:26:34,person,person,person walking sideaways across field of view,walk_sideways,sideways,left,medium,2.0,2.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_093.db3,6.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",C,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_093,PASS,person walking laterally at constant depth
+clip_094,2026-09-28,16:28:19,person,person,person walking sideaways across field of view,walk_sideways,sideways,right,medium,2.0,2.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_094.db3,6.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_094,PASS,person walking laterally at constant depth
+clip_095,2026-09-28,16:29:46,person,person,person walking sideaways across field of view,walk_sideways,sideways,right,medium,2.0,2.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_095.db3,6.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",B,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",D,/home/owais/Documents/motion-blindness/data/verify/clip_095,PASS,person walking laterally at constant depth
+clip_096,2026-09-28,16:31:16,person,person,person standing still,stand_still,stationary,stationary,na,1.0,1.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_096.db3,6.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_096,PASS,person standing completely stationary
+clip_097,2026-09-28,16:33:07,person,person,person standing still,stand_still,stationary,stationary,na,1.0,1.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_097.db3,5.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_097,PASS,person standing completely stationary
+clip_098,2026-09-28,16:34:19,person,person,person standing still,stand_still,stationary,stationary,na,2.0,2.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_098.db3,5.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_098,PASS,person standing comletely stationary
+clip_099,2026-09-28,16:36:00,person,person,person standing still,stand_still,stationary,stationary,na,3.0,3.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_099.db3,4.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_099,PASS,person standing completely stationary
+clip_100,2026-09-28,16:37:19,person,person,person standing still,stand_still,stationary,stationary,na,3.0,3.0,0.0,/run/media/owais/External/motion_blindness/bag_files/clip_100.db3,6.0,"In which direction does the person primarily move in this clip?
+(A) Toward camera  (B) Away  (C) Left  (D) Right",D,"How would you describe the speed of the person in this clip?
+(A) Slowly  (B) Medium speed  (C) Quickly  (D) Not moving",D,"By the end of the clip, is the person closer to or farther from the camera than at the start?
+(A) Closer  (B) Farther  (C) Same distance  (D) Cannot determine",C,"If you could measure the distance from the camera to the person at start and end, which is correct?
+(A) Distance decreased  (B) Distance increased  (C) Same  (D) Sideways only",C,/home/owais/Documents/motion-blindness/data/verify/clip_100,PASS,person standing completely stationary
